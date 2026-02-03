@@ -18,5 +18,9 @@ The analysis showed that some campaigns had high ad spend but very low conversio
 ### Dashboard 
 <img width="1507" height="739" alt="Meta ad Dashboard" src="https://github.com/user-attachments/assets/ec9aca7a-c965-42bf-b479-390d1d70db1a" />
 
+### 📁 Dataset Links
+[Click here to access all datasets](https://github.com/Vaish611/Meta-AD-Dashboard/tree/main)
+
+
 ### Conclusion:
 This project helps in understanding which Meta Ads perform well and which do not. It allows businesses to optimize their ad budget effectively. Poor-performing campaigns can be paused or improved. The dashboard supports data-driven marketing decisions. Overall, it improves advertising efficiency.
